@@ -9,7 +9,7 @@
 ### Features
 
 
-- Contacts
+- **Contacts**
 
     -  **`GET`   /contacts**     *Get all contacts*
     -  **`GET`  /contacts/:contactId**     *GET one contact by id*
@@ -18,7 +18,7 @@
     -  **`PATCH`  /contacts/:contactId/favorite**     *Add contact to favorites*
     -  **`DELETE`  /contacts/:contactId**    *Delete contact*
 
-- Auth
+- **Auth**
 
     -  **`POST`  /auth/register**      *User registration*
     -  **`POST`  /auth/login**     *User authentication*
