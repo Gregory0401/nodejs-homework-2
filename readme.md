@@ -11,19 +11,19 @@
 
 - **Contacts**
 
-    -  ![GET](https://img.shields.io/badge/GET-green)   **`/contacts`**     *Get all contacts*
-    -  **`GET`  /contacts/:contactId**     *GET one contact by id*
-    -  **`POST`  /contacts**     *Add new contact*
-    -  **`PUT`  /contacts/:contactId**     *Update information about contact*
-    -  **`PATCH`  /contacts/:contactId/favorite**     *Add contact to favorites*
-    -  **`DELETE`  /contacts/:contactId**    *Delete contact*
+    -  ![GET](https://img.shields.io/badge/GET-blue)   **`/contacts`**     *Get all contacts*
+    -  ![GET](https://img.shields.io/badge/GET-blue)  **`/contacts/:contactId`**     *GET one contact by id*
+    -  ![POST](https://img.shields.io/badge/POST-green)  **`/contacts`**     *Add new contact*
+    -  ![PUT](https://img.shields.io/badge/PATCH-yellow)  **`/contacts/:contactId`**     *Update information about contact*
+    -  ![PATCH](https://img.shields.io/badge/PATCH-grey)  **`/contacts/:contactId/favorite`**     *Add contact to favorites*
+    -  ![DELETE](https://img.shields.io/badge/DELETE-red)  **`/contacts/:contactId`**    *Delete contact*
 
 - **Auth**
 
-    -  **`POST`  /auth/register**      *User registration*
-    -  **`POST`  /auth/login**     *User authentication*
-    -  **`POST`  /auth/verify**     *Endpoint for verification email*
-    -  **`GET`  /auth/verify/:verificationCode**     *Resending an email to a user with a verification link*
-    -  **`GET`  /auth/current**     *User data by token*
-    -  **`GET`  /auth/logout**     *Logout*
-    -  **`PATCH`  /auth/avatars**    *User avatar updates*
+    -  ![POST](https://img.shields.io/badge/POST-green)  **`/auth/register`**      *User registration*
+    -  ![POST](https://img.shields.io/badge/POST-green)  **`/auth/login`**     *User authentication*
+    -  ![POST](https://img.shields.io/badge/POST-green)  **`/auth/verify`**     *Endpoint for verification email*
+    -  ![GET](https://img.shields.io/badge/GET-blue)  **`/auth/verify/:verificationCode`**     *Resending an email to a user with a verification link*
+    -  ![GET](https://img.shields.io/badge/GET-blue)  **`/auth/current`**     *User data by token*
+    -  ![GET](https://img.shields.io/badge/GET-blue)  **`/auth/logout`**     *Logout*
+    -  ![PATCH](https://img.shields.io/badge/PATCH-grey)  **`/auth/avatars`**    *User avatar updates*
