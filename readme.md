@@ -21,7 +21,7 @@
 - Auth
 
     -  **`POST`  /auth/register**      *User registration*
-    -  **`POST`  /auth/login**     *User authentication *
+    -  **`POST`  /auth/login**     *User authentication*
     -  **`POST`  /auth/verify**     *Endpoint for verification email*
     -  **`GET`  /auth/verify/:verificationCode**     *Resending an email to a user with a verification link*
     -  **`GET`  /auth/current**     *User data by token*
