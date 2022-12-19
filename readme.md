@@ -11,7 +11,7 @@
 
 - **Contacts**
 
-    -  **`GET`   /contacts**     *Get all contacts*
+    -  ![GET](https://img.shields.io/badge/GET-green)   **`/contacts`**     *Get all contacts*
     -  **`GET`  /contacts/:contactId**     *GET one contact by id*
     -  **`POST`  /contacts**     *Add new contact*
     -  **`PUT`  /contacts/:contactId**     *Update information about contact*
