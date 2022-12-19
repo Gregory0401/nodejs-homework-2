@@ -9,7 +9,11 @@
 ### Features
 
 
-- Contacts
+<p><span style="background-color:blue">GET</span><p style="font-weight:800">/contacts GET all contacts</p></p>
+
+
+</ul>
+
 
     - [✓] GET /contacts  GET all contacts
     - [✓] GET /contacts/:contactId  GET one contact by id
