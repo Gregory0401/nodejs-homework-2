@@ -14,7 +14,7 @@
     -  ![GET](https://img.shields.io/badge/GET-blue)   **`/contacts`**     *Get all contacts*
     -  ![GET](https://img.shields.io/badge/GET-blue)  **`/contacts/:contactId`**     *GET one contact by id*
     -  ![POST](https://img.shields.io/badge/POST-green)  **`/contacts`**     *Add new contact*
-    -  ![PUT](https://img.shields.io/badge/PATCH-yellow)  **`/contacts/:contactId`**     *Update information about contact*
+    -  ![PUT](https://img.shields.io/badge/PUT-yellow)  **`/contacts/:contactId`**     *Update information about contact*
     -  ![PATCH](https://img.shields.io/badge/PATCH-grey)  **`/contacts/:contactId/favorite`**     *Add contact to favorites*
     -  ![DELETE](https://img.shields.io/badge/DELETE-red)  **`/contacts/:contactId`**    *Delete contact*
 
